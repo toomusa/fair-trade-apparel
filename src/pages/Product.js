@@ -1,0 +1,1 @@
+// consumer facing data from product scan

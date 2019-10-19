@@ -1,0 +1,1 @@
+// form application with GS1 attributes
