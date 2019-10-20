@@ -1,13 +1,17 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
+import Row from "react-bootstrap/Row";
+// import Row from "react-bootstrap/Row";
+// import Column from "../partials/Column";
 
 export default function CarouselDiv() {
   return (
-    <Carousel>
+    <Row>
+      <Carousel>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://picsum.photos/200/300?random=1"
+          src="https://picsum.photos/500/700?random=1"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -18,7 +22,7 @@ export default function CarouselDiv() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://picsum.photos/200/300?random=2"
+          src="https://picsum.photos/500/700?random=2"
           alt="Third slide"
         />
 
@@ -30,7 +34,7 @@ export default function CarouselDiv() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://picsum.photos/200/300?random=3"
+          src="https://picsum.photos/500/700?random=3"
           alt="Third slide"
         />
 
@@ -42,5 +46,6 @@ export default function CarouselDiv() {
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
+    </Row>
   );
 }
