@@ -2,7 +2,7 @@
 // info from fair trade clothing and GS1 standards
 
 import React, { Component } from 'react'
-import { Container, Col, Row } from "reactstrap"
+import { Container, Col, Row } from "react-bootstrap"
 // import Container from '../partials/Container.js'
 // import Column from '../partials/Column.js'
 // import Row from '../partials/Row.js'

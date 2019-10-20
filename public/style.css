@@ -46,3 +46,8 @@
 h1 {
   text-align: center;
 }
+
+.images {
+  max-width: 500px;
+  max-height: 700px;
+}
