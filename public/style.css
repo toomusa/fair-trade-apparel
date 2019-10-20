@@ -1,5 +1,5 @@
 .heading {
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
   height: 100px;
   color: white;
   text-align: center;
@@ -18,7 +18,7 @@
 }
 
 .navbar {
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
   height: 50px;
   color: white;
   text-align: center;
@@ -50,4 +50,14 @@ h1 {
 .images {
   max-width: 500px;
   max-height: 700px;
+  height: 100%;
+}
+
+.center {
+  text-align: center;
+}
+
+.product {
+  max-width: 1500px;
+  max-height: 1700px;
 }

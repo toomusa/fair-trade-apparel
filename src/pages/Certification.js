@@ -17,6 +17,8 @@ export default class Certification extends Component {
           and encourage apparel companies to instill conscientious business practices. </p>
         <p>A detail charter with specific measures will be issued as a guideline to companies seeking 
           to earn the Good Stewards Certification. Its basic tenets include:</p>
+        <h1>Certification Requirements</h1>
+        <br></br>
         <Container>
           <Row>
             <Col md="4" sm="4">
