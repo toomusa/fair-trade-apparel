@@ -1,0 +1,29 @@
+.heading {
+  background-color: #E5E5E5;
+  height: 100px;
+  color: white;
+  text-align: center;
+  padding-left: 20px;
+  padding-top: 40px;
+  margin-right: 0;
+  vertical-align: middle;
+}
+
+#tagline {
+  color: orangered;
+  font-size: 42px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.navbar {
+  background-color: #E5E5E5;
+  height: 50px;
+  color: white;
+  text-align: center;
+}
+
+.link {
+  margin: 0 10px;
+}
