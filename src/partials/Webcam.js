@@ -11,8 +11,10 @@ export default function Webcam() {
 
   return (
     <div className="modal-box">
-      <Button variant="primary" onClick={handleShow}>
-        Scan Your Barcode
+      <p id="caption"> If your apparel has a GS code on the care label, 
+      <br></br>you can scan it here to pull up its unique product page.</p>
+      <Button variant="primary" size="lg" onClick={handleShow}>
+        Click Here Scan Your QRcode
       </Button>
       <Modal show={show} onHide={handleClose} className="webcam-modal" centered>
         <Modal.Header>
