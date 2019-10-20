@@ -85,4 +85,14 @@ h3 {
 .images {
   max-width: 500px;
   max-height: 700px;
+  height: 100%;
+}
+
+.center {
+  text-align: center;
+}
+
+.product {
+  max-width: 1500px;
+  max-height: 1700px;
 }
