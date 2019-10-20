@@ -8,7 +8,7 @@ const CardDiv = props => {
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
         <Card.Text>Good Steward Certified</Card.Text>
-        <Button variant="primary">Go To {props.title}</Button>
+        <Button variant="warning"><a href={props.href ? props.href : "#"} className="linko">Go To {props.title}</a></Button>
       </Card.Body>
     </Card>
   );
