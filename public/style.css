@@ -81,3 +81,8 @@ h1 {
 h3 {
   color: #f26334;
 }
+
+.images {
+  max-width: 500px;
+  max-height: 700px;
+}
