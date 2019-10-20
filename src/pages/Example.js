@@ -12,17 +12,30 @@ export default class Example extends Component {
           <Col md="4">
             <br></br><br></br>
             <br></br>
-            <Checkbox label="Sourced Materials" />
+            <div className="center">
+            <Checkbox label="Materials" />
+            <Checkbox label="Processes" />
+            <Checkbox label="Storage & Shipping" />
+            </div>
           </Col>
           <Col md="4">
             <div className="product-item">
+              <br></br>
               <img src={patagonia} alt="Patagonia" className="demo-img"/>
+              <br></br>
               <h4>Patagonia Men's Performance Straight Fit Jeans - Regular</h4>
+              <br></br>
               <img src={pants} alt="Men's Jeans" className="demo-img"/>
             </div>
           </Col>
           <Col md="4">
-
+            <br></br><br></br>
+            <br></br>
+            <div className="center">
+            <Checkbox label="Environmental Impact" />
+            <Checkbox label="Working Conditions" />
+            <Checkbox label="Social Responsibility" />
+            </div>
           </Col>
         </Row>
       </Container>

@@ -93,7 +93,7 @@ h3 {
 }
 
 .demo-img {
-  width: 100%;
+  width: 80%;
 }
 
 .checkbox {
@@ -101,12 +101,13 @@ h3 {
 }
 
 .green-check {
-  width: 50px;
-  float: left;
+  width: 150px;
+  display: inline;
 }
 
-h6 {
-  font-size: 16px;
+.label {
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .center {
@@ -116,5 +117,13 @@ h6 {
 .product {
   max-width: 1500px;
   max-height: 1700px;
+}
+
+.linko {
+  color: black;
+}
+
+.linko hover {
+  color: red;
 }
 

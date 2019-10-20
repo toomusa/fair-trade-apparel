@@ -17,11 +17,9 @@ export default class Certification extends Component {
         <p className="cent">The mission of Good Stewards is to provide a set of benchmarks in relation to sourcing, 
           production, storage, shipping, environmental impact, and worker conditions to incentivize 
           and encourage apparel companies to instill conscientious business practices. </p>
-        <p>A detail charter with specific measures will be issued as a guideline to companies seeking 
-          to earn the Good Stewards Certification. Its basic tenets include:</p>
         <p className="cent">A detail charter with specific measures will be issued as a guideline to companies seeking 
           to earn the Good Stewards Certification. Its basic components include:</p>
-        <h1>Certification Requirements</h1>
+        <h2 className="center">Certification Requirements</h2>
         <br></br>
         <Container>
           <Row>
