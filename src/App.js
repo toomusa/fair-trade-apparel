@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import Certification from './pages/Certification';
 import Explorer from './pages/Explorer';
 import Product from './pages/Product';
+import Example from './pages/Example';
 
 export default function App() {
   return (
@@ -24,6 +25,7 @@ export default function App() {
               <Route exact path="/certification" component={Certification} />
               <Route exact path="/explore" component={Explorer} />
               <Route exact path="/products" component={Product} />
+              <Route exact path="/example" component={Example} />
             </Switch>
           </Router>
         </div>

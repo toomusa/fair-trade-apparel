@@ -88,6 +88,27 @@ h3 {
   height: 100%;
 }
 
+.product-item {
+  text-align: center;
+}
+
+.demo-img {
+  width: 100%;
+}
+
+.checkbox {
+  width: 200px;
+}
+
+.green-check {
+  width: 50px;
+  float: left;
+}
+
+h6 {
+  font-size: 16px;
+}
+
 .center {
   text-align: center;
 }
@@ -96,3 +117,4 @@ h3 {
   max-width: 1500px;
   max-height: 1700px;
 }
+
