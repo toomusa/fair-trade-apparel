@@ -26,7 +26,7 @@ export default class Scanner extends Component {
           delay={300}
           onError={this.handleError}
           onScan={this.handleScan}
-          style={{ width: '20%' }}
+          style={{ width: '100%' }}
         />
         <p>{this.state.result}</p>
       </div>
