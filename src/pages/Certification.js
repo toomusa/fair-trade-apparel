@@ -11,43 +11,48 @@ export default class Certification extends Component {
   render() {
     return (
       <div>
-        <h1>Good Stewards Certification</h1>
-        <p>The mission of Good Stewards is to provide a set of benchmarks in relation to sourcing, 
+        <br></br>
+        <h1>Good Stewards Certificate</h1>
+        <br></br>
+        <p className="cent">The mission of Good Stewards is to provide a set of benchmarks in relation to sourcing, 
           production, storage, shipping, environmental impact, and worker conditions to incentivize 
           and encourage apparel companies to instill conscientious business practices. </p>
         <p>A detail charter with specific measures will be issued as a guideline to companies seeking 
           to earn the Good Stewards Certification. Its basic tenets include:</p>
+        <p className="cent">A detail charter with specific measures will be issued as a guideline to companies seeking 
+          to earn the Good Stewards Certification. Its basic components include:</p>
         <h1>Certification Requirements</h1>
         <br></br>
         <Container>
           <Row>
             <Col md="4" sm="4">
               <ul>
-                <h2>Materials</h2>
-                <li>Finished Goods Manufacturer GTIN and GLN</li>
+                <h3>Materials & Components</h3>
+                <li>Finished Goods</li>
                 <li>Supplier GTIN and GLN</li>
-                <li>Materials used</li>
-                <li>Component materials</li>
+                <li>Materials Used</li>
+                <li>Component Materials</li>
                 <li>Chemicals and Treatments</li>
                 <br></br>
-                <h2>Process</h2>
+                <h3>Process & Production</h3>
                 <li>Sourcing</li>
                 <li>Quality Assurance</li>
                 <li>Manufacturing</li>
                 <li>Assembly</li>
-                <li>Storage and Shipping</li>
+                <li>Miles Traveled</li>
                 <br></br>
               </ul>
             </Col>
             <Col md="4" sm="4">
               <ul>
-                <h2>Storage & Shipping</h2>
+                <h3>Storage & Shipping</h3>
                 <li>Packaging</li>
-                <li>Extreme temperatures</li>
+                <li>Extreme Temperatures</li>
                 <li>Pests and Infestation</li>
                 <li>Cross-contamination</li>
-                <li>Elemental protection</li>
-                <h2>Environmental Impact</h2>
+                <li>Elemental Protection</li>
+                <br></br>
+                <h3>Environmental Impact</h3>
                 <li>Waste Management</li>
                 <li>Resource Management</li>
                 <li>Carbon Threshold</li>
@@ -58,14 +63,14 @@ export default class Certification extends Component {
             </Col>
             <Col md="4" sm="4">
               <ul>
-                <h2>Worker Conditions</h2>
+                <h3>Worker Conditions</h3>
                 <li>Hours & Wages</li>
                 <li>Working Environment</li>
                 <li>Working Tools</li>
                 <li>Health & Safety</li>
                 <li>Job Security</li>
                 <br></br>
-                <h2>Social Responsibility</h2>
+                <h3>Social Responsibility</h3>
                 <li>Non-Discrimination</li>
                 <li>Women’s Rights</li>
                 <li>Fair Living Wages</li>

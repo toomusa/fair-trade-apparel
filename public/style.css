@@ -1,27 +1,34 @@
 .heading {
-  background-color: #e5e5e5;
+  background-color: #002c6c;
   height: 100px;
   color: white;
   text-align: center;
   padding-left: 20px;
+  padding-bottom: 40px;
   padding-top: 40px;
   margin-right: 0;
   vertical-align: middle;
 }
 
 #tagline {
-  color: orangered;
+  color: #f26334;
   font-size: 42px;
   text-align: center;
   font-weight: bold;
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .navbar {
-  background-color: #e5e5e5;
+  background-color: #f26334;
   height: 50px;
   color: white;
   text-align: center;
+}
+
+.navbar a {
+  color: #002c6c;
+  background-color: #f26334;
 }
 
 .link {
@@ -45,6 +52,34 @@
 
 h1 {
   text-align: center;
+  color: #002c6c;
+}
+
+#howitworks {
+  width: 100%;
+}
+
+#caption {
+  font-size: 24px;
+}
+
+#banner {
+  max-height: 300px;
+  padding: 20px;
+  background-color: #002c6c;
+  color: white;
+}
+
+#navtext {
+  text-align: center;
+}
+
+.cent {
+  text-align: center;
+}
+
+h3 {
+  color: #f26334;
 }
 
 .images {

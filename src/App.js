@@ -14,7 +14,7 @@ export default function App() {
         <div className="col-12">
           <Header />
         </div>
-        <div className="col-12">
+        <div className="col-12" id="navig">
           <Navbar />
         </div>
         <div className="col-md-10 col-sm-12 col-xs-12 offset-md-1">
