@@ -2,7 +2,7 @@
 // info from fair trade clothing and GS1 standards
 
 import React, { Component } from 'react'
-import { Container, Col, Row } from "react-bootstrap"
+import { Container, Col, Row } from "reactstrap"
 // import Container from '../partials/Container.js'
 // import Column from '../partials/Column.js'
 // import Row from '../partials/Row.js'
@@ -19,7 +19,7 @@ export default class Certification extends Component {
           to earn the Good Stewards Certification. Its basic tenets include:</p>
         <Container>
           <Row>
-            <Col md={4} sm={4}>
+            <Col md="4" sm="4">
               <ul>
                 <h2>Materials</h2>
                 <li>Finished Goods Manufacturer GTIN and GLN</li>
@@ -37,7 +37,7 @@ export default class Certification extends Component {
                 <br></br>
               </ul>
             </Col>
-            <Col md={4} sm={4}>
+            <Col md="4" sm="4">
               <ul>
                 <h2>Storage & Shipping</h2>
                 <li>Packaging</li>
@@ -54,7 +54,7 @@ export default class Certification extends Component {
                 <br></br>
               </ul>
             </Col>
-            <Col md={4} sm={4}>
+            <Col md="4" sm="4">
               <ul>
                 <h2>Worker Conditions</h2>
                 <li>Hours & Wages</li>
