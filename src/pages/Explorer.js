@@ -10,6 +10,7 @@ export default class Explorer extends Component {
     return (
       <div>
         <h1>Explore Page</h1>
+
         <Container>
           <Row>
             <Col md={4} sm={4}>
