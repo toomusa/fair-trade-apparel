@@ -12,7 +12,7 @@ export default class Product extends Component {
         <Container>
           <Row>
             <Col md="4" sm="4">
-              <CardDiv title="Nike" imgurl="" />
+              <CardDiv title="Nike" imgurl="" link="/products/1"/>
             </Col>
             <Col md="4" sm="4">
               <CardDiv title="Wal-Mart" imgurl="" />
