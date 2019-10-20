@@ -3,7 +3,7 @@ import React from "react";
 export default function Navbar() {
   return (
     <div className="navbar">
-      <div id="navtext">
+      <div classname="ml-auto" id="navtext">
         <a href="/" className="link">
           {window.location.pathname === "/" ? (
             <span>
