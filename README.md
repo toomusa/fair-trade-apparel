@@ -17,4 +17,5 @@ It is no secret that the apparel industry, specifically “fast fashion”, is o
 We propose to incentivize the Final Product Manufacturer to provide transparency and accountability to their upstream supply partners.  We plan to do this in two ways.
 
 1.	 The Good Shepard Certification- This allows them to market their product as “premium” as well as making them attractive to conscientious focused demographics
-2.	 A special tag issues upon certification that provides detailed info about their products life cycle.  This includes a 2d scanner that enables the consumer to access the Good Shepard Certification history of their product (transparency) as well as including a blue-tooth accessible strip to track washes and travel(ideal for luxury/ second had markets).
+
+2.	 A special tag issues upon certification that provides detailed info about their products life cycle.  This includes a 2d scanner that enables the consumer to access the Good Shepard Certification history of their product (transparency) with the camera on their phone. The tag can also include a blue-tooth accessible strip to track washes and travel (ideal for luxury/ second-hand markets).
