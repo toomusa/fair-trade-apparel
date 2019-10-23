@@ -1,0 +1,129 @@
+.heading {
+  background-color: #002c6c;
+  height: 100px;
+  color: white;
+  text-align: center;
+  padding-left: 20px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  margin-right: 0;
+  vertical-align: middle;
+}
+
+#tagline {
+  color: #f26334;
+  font-size: 42px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.navbar {
+  background-color: #f26334;
+  height: 50px;
+  color: white;
+  text-align: center;
+}
+
+.navbar a {
+  color: #002c6c;
+  background-color: #f26334;
+}
+
+.link {
+  margin: 0 10px;
+}
+
+.webcam-modal {
+  z-index: -2;
+  text-align: center;
+  width: 30%;
+  min-width: 400px;
+}
+
+.scanner-box {
+  text-align: center;
+}
+
+.modal-box {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: #002c6c;
+}
+
+#howitworks {
+  width: 100%;
+}
+
+#caption {
+  font-size: 24px;
+}
+
+#banner {
+  max-height: 300px;
+  padding: 20px;
+  background-color: #002c6c;
+  color: white;
+}
+
+#navtext {
+  text-align: center;
+}
+
+.cent {
+  text-align: center;
+}
+
+h3 {
+  color: #f26334;
+}
+
+.images {
+  max-width: 500px;
+  max-height: 700px;
+  height: 100%;
+}
+
+.product-item {
+  text-align: center;
+}
+
+.demo-img {
+  width: 80%;
+}
+
+.checkbox {
+  width: 200px;
+}
+
+.green-check {
+  width: 150px;
+  display: inline;
+}
+
+.label {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.product {
+  max-width: 1500px;
+  max-height: 1700px;
+}
+
+.linko {
+  color: black;
+}
+
+.linko hover {
+  color: red;
+}
+

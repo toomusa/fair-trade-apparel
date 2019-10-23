@@ -1,3 +1,4 @@
+
 This was a project created by Denzel Hartshorn, Musa Akbari and Med Amine for the GS1 US Trace-a-thon tackling the business problem of Transparency and Certifications. This is an overview of our presentation & app.
 
 https://docs.google.com/presentation/d/1s6rOCWd0jbQf79__Lq_fMcwj4lhOmNPwUVQLkv6ujfo/edit?usp=sharing
@@ -17,3 +18,5 @@ We propose to incentivize the Final Product Manufacturer to provide transparency
 The Good Shepard Certification- This allows them to market their product as “premium” as well as making them attractive to conscientious focused demographics
 
 A special tag issues upon certification that provides detailed info about their products life cycle. This includes a 2D scanner that enables the consumer to access the Good Shepard Certification history of their product (transparency) with the camera on their phone, as well as contribute feedback on the life-cycle of the product. The tag can also include a blue-tooth accessible strip to track washes and travel (ideal for luxury/ second-hand markets).
+
+
