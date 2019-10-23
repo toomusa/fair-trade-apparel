@@ -18,4 +18,4 @@ We propose to incentivize the Final Product Manufacturer to provide transparency
 
 1.	 The Good Shepard Certification- This allows them to market their product as “premium” as well as making them attractive to conscientious focused demographics
 
-2.	 A special tag issues upon certification that provides detailed info about their products life cycle.  This includes a 2d scanner that enables the consumer to access the Good Shepard Certification history of their product (transparency) with the camera on their phone. The tag can also include a blue-tooth accessible strip to track washes and travel (ideal for luxury/ second-hand markets).
+2.	 A special tag issues upon certification that provides detailed info about their products life cycle.  This includes a 2D scanner that enables the consumer to access the Good Shepard Certification history of their product (transparency) with the camera on their phone, as well as contribute feedback on the life-cycle of the product. The tag can also include a blue-tooth accessible strip to track washes and travel (ideal for luxury/ second-hand markets).
