@@ -1,5 +1,5 @@
 
-This was a project created by Denzel Hartshorn, Musa Akbari and Med Amine for the GS1 US Trace-a-thon tackling the business problem of Transparency and Certifications. This is an overview of our presentation & app.
+This was a project created by Denzel Hartshorn, Musa Akbari and Mohammed El Amine Idmoussi for the GS1 US Trace-a-thon tackling the business problem of Transparency and Certifications. This is an overview of our presentation & app.
 
 https://docs.google.com/presentation/d/1s6rOCWd0jbQf79__Lq_fMcwj4lhOmNPwUVQLkv6ujfo/edit?usp=sharing
 
